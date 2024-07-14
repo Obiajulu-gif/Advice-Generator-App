@@ -14,7 +14,11 @@ This project is a simple, interactive web application that fetches and displays 
 - Vite
 - Tailwind CSS
 - ESLint for code quality
+## Live Application
 
+The Advice Generator App is deployed and accessible online. Visit the application through the following link: [Advice Generator App Live](https://advice-generator-app-0tms.onrender.com).
+
+...
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
